@@ -11,8 +11,8 @@ fetch("./file js/film.json")
         <img src="${data[i].img_url}" class="card-img-top" alt="..." id="movie-img" height="300px" width="200px">
         <div class="card-body">
           <h5 class="card-title" id="movie-name">${data[i].Name}</h5>
-          <p class="card-text" id="movie-description">${data[i].Character}</p>
-          <p class="card-text" id="movie-duration">${data[i].Role}</p>
+          <p class="card-text" id="movie-description">Character: ${data[i].Character}</p>
+          <p class="card-text" id="movie-duration">Role: ${data[i].Role}</p>
         </div>
       </div>
     </div>`
