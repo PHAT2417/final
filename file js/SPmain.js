@@ -1,7 +1,7 @@
 let movie_area = document.querySelector("#movie-area");
 let movie_sub_area = document.querySelector("#movie-sub-area");
 
-fetch("./SP.json")
+fetch("./file js/SP.json")
   .then((response) => response.json())
   .then((data) => {
      console.log(data);
