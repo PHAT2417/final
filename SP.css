@@ -1,0 +1,113 @@
+.Body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY.jpg');
+    object-fit:cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 643px;
+}
+
+.N1 {
+    margin-top: 20px;
+    margin-left: 40px;
+    color:#e30808;
+    font-size: 50px;
+}
+
+.DN {
+    float: right;
+    width: 120px;
+    height: 50px;
+    display:inline ;
+    margin-right: 100px;
+    background-color: #e30808;
+    border-radius: 6px;
+    border: none;
+    color: rgb(255, 252, 252);
+}
+
+.DK {
+    width: 120px;
+    height: 50px;
+    margin-left: 700px;
+    background-color: rgb(241, 11, 11);
+    border-radius: 6px;
+    border: none;
+    color: rgb(255, 255, 255);
+
+}
+
+.ND1 {
+    text-align: center;
+    font-size: 53px;
+    margin-top: 110px;
+    color: white;
+}
+
+.ND2 {
+    text-align: center;
+    font-size: 28px;
+    color: white;
+}
+
+.ND3 {
+    text-align: center;
+    font-size: 19px;
+    color: white;
+}
+
+.dropdown {
+    display:inline;
+    font-size: 20px;
+    
+}
+
+.Dropdownbutton {
+    width: 120px;
+    color:#e30808;
+    border-radius: 10px;
+    margin-left: 40px;
+    background:none;
+    border:none
+}
+.user-box{
+    margin-top: 60px;
+    margin-left: 300px;
+}
+#email{
+    width: 700px;
+    height: 70px;
+    
+}
+#Submit{
+    height: 70px;
+    width:90px;
+    border: none;
+    background-color: #e30808;
+    color: aliceblue;
+}
+.DN a{
+    text-decoration: none !important;
+    color: aliceblue;
+}
+#Submit a{
+    text-decoration: none !important;
+    color: aliceblue;
+}
+ .DN:hover{
+    background: #e30808;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #e30808,
+                0 0 25px #e30808,
+                0 0 50px #e30808,
+                0 0 100px #e30808;
+}
+ #Submit:hover{
+    background: #e30808;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #e30808,
+                0 0 25px #e30808,
+                0 0 50px #e30808,
+                0 0 100px #e30808;
+}

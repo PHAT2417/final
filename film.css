@@ -1,0 +1,22 @@
+.Total {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url('');
+    display: block;
+    
+    
+}
+
+.hfilm1 {
+    width: 1330px;
+    height: 660px;
+    margin-left: 0px;
+    text-align: left;
+}
+
+.Nfilm1 {
+    display: inline;
+    margin-left: 80px; 
+    font-size: 25px;
+    color: white;
+    
+}
+

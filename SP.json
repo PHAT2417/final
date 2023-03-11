@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "The Dark Knight Rises",
+        "duration":164,
+        "description":"The Dark Knight Rises is a 2012 superhero film, directed by Christopher Nolan. At the same time, Christopher Nolan and his brother Jonathan Nolan are also two screenwriters of the film. The plot of The Dark Knight Rises by David S. Goyer." ,
+        "img_url": "Picture/Dark_knight_rises_poster.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "Batman: The Dark Knight Returns",
+        "duration":152,
+        "description":"Batman: The Dark Knight Returns is a two-part direct-to-video animated superhero film, an adaptation of the 1986 comic book The Dark Knight Returns by Frank Miller and is set in the same continuity as Batman: Year One.",
+        "img_url": "Picture/batmanreturns.jpg"
+
+    },
+    {
+        "id": 3,
+        "name": "Justice League Dark: Apokolips War",
+        "duration":90,
+        "description": "Justice League Dark: Apokolips War is a 2020 American adult animated superhero film produced by Warner Bros. Animation and distributed by Warner Home Video. The film is directed by Matt Peters and Christina Sotta, while Ernie Altbacker and Mairghread Scott wrote the screenplay.",
+        "img_url": "Picture/justiceleaguedark.jpg"
+
+    },
+    {
+        "id": 4,
+        "name": "Kamen Rider Geats Revice: Movie Battle Royale",
+        "duration":96,
+        "description":"Kamen Rider Geats × Revice: Movie Battle Royale is a Japanese superhero crossover film between Kamen Rider Geats, Kamen Rider Revice, and Kamen Rider Ryuki, and serves to commemorate the latter's 20th anniversary as the 13th installment of the Movie War film series. In the film, Geats, Revice, and Ryuki wage a fierce war against each other in the newest edition of the Desire Royale.",
+        "img_url": "Picture/geats.jpg",
+        "link": "./film.html"
+    },
+    {
+        "id": 5,
+        "name": "Rush Hour",
+        "duration":98,
+        "description":"Rush Hour is a 1998 American action comedy-comedy film directed by Brett Ratner and written by Jim Kouf and Ross LaManna from the beginning of LaManna's story.",
+        "img_url": "Picture/Rush_hour.jpg"
+
+    },
+     {
+        "id": 6,
+        "name": "Spider-man No Way Home",
+        "duration":148,
+        "description":"Spider-Man: No Home is a 2021 American superhero film based on the Marvel Comics character Peter Parker, co-produced by Columbia Pictures and Marvel Studios and distributed by Sony Pictures Releasing.",
+        "img_url": "Picture/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id": 7,
+        "name": "That Time I got Reincarnated as a slime the Movie: scarlet bond",
+        "duration":110,
+        "description":"The story will revolve around a new country called Razha, located to the west of Tempest. Rimuru and his companions are entangled in a persistent plot circling a girl with mysterious powers.",
+        "img_url": "Picture/2f9f98652d4e08c7_0b133f3f52ace0dd_27068516762168374185710.jpg"
+
+    },
+    {
+        "id": 8,
+        "name": "Boku no Hero Academia",
+        "duration":24,
+        "description":"The story follows Midoriya Izuku (nicknamed 'Deku'), a boy born without superpowers in a world where being super-heavy is normal, yet he still dreams of becoming a superhero. hero, and is aided by the world's greatest superhero, who shares his superpowers with Izuku after realizing his worth and helping him enter a high school for superheroes. probationary.",
+        "img_url": "Picture/7e023c55c6cb63b2ecbb31b6aae9bf12.jpg"
+    },
+    {
+        "id": 9,
+        "name": "The Wolf of Wall Street",
+        "duration":180,
+        "description":"The Wolf of Wall Street is a biographical comedy film. The screenplay was written by Terence Winter and the film is adapted from the memoir of the same name by Jordan Belfort, told in the name of the character Belfort about his career - a stockbroker in New York City and working as a stockbroker. How did Mr. Stratton Oakmont's firm engage in rampant corruption and fraud on Wall Street that ultimately led to his downfall.",
+        "img_url": "Picture/220px-The_Wolf_of_Wall_Street_(2013).png",
+        "link": "./film2.html"
+    },
+    {
+        "id": 10,
+        "name": "High School Musical",
+        "duration":98,
+        "description":"High School Musical is the story of two high school students - Troy Bolton (Zac Efron), the captain of the basketball team, and Gabriella Montez (Vanessa Hudgens), a beautiful but timid girl at her new school who does very well in school. in Math and Science. They unexpectedly join the school musical audition together, causing controversy among their friends and trouble throughout the school. Despite their friends trying to stop them, Troy and Gabriella overcame the pressure and jealousy, winning the audition. This is also the time when the basketball team and the science team have a historic handshake as these are two sworn rivals for a unique position in the school.",
+        "img_url": "Picture/220px-High_school_musical.jpg"
+
+    }
+]
