@@ -20,3 +20,12 @@
     
 }
 
+.jumbotron{
+    margin-top: 100px;
+    background-color:rgb(25, 25, 25) ;
+}
+
+.actor{
+    background-color: rgb(201, 198, 198);
+    height:430px
+}

@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "Name": "Hideyoshi Kan",
+        "Character": "Ukiyo Ace",
+        "Role": "Kamen Rider Geats",
+        "img_url":"./Picture/images (1).jpg"
+    },
+    {
+        "id": 2,
+        "Name": "Kentaro Maeda",
+        "Character": "Igarashi Ikki",
+        "Role": "Kamen Rider Revi",
+        "img_url":"./Picture/Kentaro_Maeda.webp"
+    },
+    {
+        "id": 3,
+        "Name": "Ryuga Sato",
+        "Character": "Sakurai Keiwa",
+        "Role": "Kamen Rider Tycoon",
+        "img_url":"./Picture/FZbtNofWYAAPzTg.jpg"
+    },
+    {
+        "id": 4,
+        "Name": "Yuna Hoshino",
+        "Character": "Kurama Neon",
+        "Role": "Kamen Rider Na-Go",
+        "img_url":"./Picture/6343a2a99d072.jpg"
+    },
+    {
+        "id": 5,
+        "Name": "Kokoro Aoshima",
+        "Character": "Tsumuri",
+        "Role": "Navigator",
+        "img_url":"./Picture/Kokoro_Aoshima.webp"
+    },
+    {
+        "id": 6,
+        "Name": "Tetsuhiro Ikeda",
+        "Character": "Korath",
+        "Role": "Main Antagonist (Game Master)",
+        "img_url":"./Picture/269915.jpg"
+    },
+    {
+        "id": 7,
+        "Name": "Ayaka Imoto",
+        "Character": "Igarashi Sakura",
+        "Role": "Kamen Rider Jeanne",
+        "img_url":"./Picture/Ayaka_Imoto.webp"
+    },
+    {"id": 8,
+        "Name": "Satoshi Matsuda",
+        "Character": "Ren Akiyama",
+        "Role": "Kamen Rider Knight",
+        "img_url":"./Picture/kBkEg_5f.jpg"
+    }
+]
