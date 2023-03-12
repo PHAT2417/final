@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "Name": "Leonardo (Wilhelm) DiCaprio",
+        "Character": "Jordan Belfort",
+        "Role": "",
+        "img_url":"./Picture/435_v9_bc.jpg"
+    },
+    {
+        "id": 2,
+        "Name": "Jordan Belfort",
+        "Character": "Auckland Straight Line Host",
+        "Role": "",
+        "img_url":"./Picture/0ecfa4e2-ba50-4c28-8d8c-59e399cc72dd.webp"
+    },
+    {
+        "id": 3,
+        "Name": "Margot Elise Robbie",
+        "Character": "Naomi Lapaglia",
+        "Role": "",
+        "img_url":"./Picture/d26683e4d900b8e917a37deb1f63e3483a-21-Margot-Robbie.rsquare.w768.webp"
+    },
+    {
+        "id": 4,
+        "Name": "Matthew David McConaughey",
+        "Character": "Mark Hanna",
+        "Role": "",
+        "img_url":"./Picture/44410_v9_bb.jpg"
+    },
+    {
+        "id": 5,
+        "Name": "Jonathan Edward Bernthal",
+        "Character": "Brad Bodnick",
+        "Role": "",
+        "img_url":"./Picture/Jon_Bernthal.webp"
+    },
+    {
+        "id": 6,
+        "Name": "Kyle Martin Chandler",
+        "Character": "Patrick Denham",
+        "Role": "",
+        "img_url":"./Picture/189004c900d0c783060a326eb3f71c7a30c6b67818ebddd120c4402343166b87.jpg"
+    }
+]
