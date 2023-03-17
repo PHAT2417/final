@@ -71,11 +71,13 @@ h1{
     margin-top: 0;
 }
 
-.footage{
+.footer{
     margin-top: 0;
     width: full;
-    height: 300px;
+    height: 350px;
     background-color: rgb(69, 65, 65);
+    color: white;
+    margin-bottom: 0;
 }
 
 .FA{
@@ -126,14 +128,20 @@ h1{
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 700px;
   position: relative;
-  margin: auto;
+  display: block;
+  float: right;
+  margin-right: 40px;
+  height:400px;
+  margin-bottom: 20px;
 }
 
 /* Hide the images by default */
 .mySlides {
   display: none;
+  width: 600px;
+  height:400px
 }
 
 /* Next & previous buttons */
@@ -142,7 +150,7 @@ h1{
   position: absolute;
   top: 50%;
   width: auto;
-  margin-top: -22px;
+  margin-top: 22px;
   padding: 16px;
   color: white;
   font-weight: bold;
@@ -183,18 +191,6 @@ h1{
   top: 0;
 }
 
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
 .active, .dot:hover {
   background-color: #717171;
 }
@@ -210,3 +206,14 @@ h1{
   to {opacity: 1}
 }
 
+.footer a{
+  text-decoration: none;
+}
+
+.footer a:hover{
+  color:#f2f2f2;
+  text-shadow: 0 0 5px #1308e3,
+  0 0 25px #0000ff,
+  0 0 50px #2c08e3,
+  0 0 100px #3708e3;;
+}

@@ -73,7 +73,7 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 
-function showSlides(n) {
+function showSlides() {
   let i;
   let slides = document.getElementsByClassName("mySlides");
   for (i = 0; i < slides.length; i++) {
@@ -82,5 +82,5 @@ function showSlides(n) {
   slideIndex++;
   if (slideIndex > slides.length) {slideIndex = 1}
   slides[slideIndex-1].style.display = "block";
-  setTimeout(showSlides, 5000); // Change image every 5 seconds
+  setTimeout(showSlides, 2000); // Change image every 5 seconds
 }
