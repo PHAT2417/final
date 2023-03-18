@@ -10,7 +10,7 @@ login.addEventListener("submit", (e) => {  // them event submit (e) bat dau 1 ev
     let check = users.map(index => index.email == email.value.trim() && index.pw == pw.value.trim()) // phuong thuc map() tuong tu nhu vong for 
 
     if (check[0] == true){
-        window.location.href = "../login.html"
+        window.location.href = "../final/login.html"
     } else {
         alert("Vui lòng nhập lại!")
     }
