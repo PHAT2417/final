@@ -49,7 +49,7 @@ register.addEventListener("submit", (e) => {
                     }
                 ]));
             }
-            location.replace("../Login/Login .html")
+            location.replace("../final/Login .html")
     }
 
 })
